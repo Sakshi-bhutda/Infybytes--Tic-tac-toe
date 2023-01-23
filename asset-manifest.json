@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Infybytes--Tic-tac-toe/static/css/main.3532ca69.css",
+    "main.js": "/Infybytes--Tic-tac-toe/static/js/main.a31d76ba.js",
+    "index.html": "/Infybytes--Tic-tac-toe/index.html",
+    "main.3532ca69.css.map": "/Infybytes--Tic-tac-toe/static/css/main.3532ca69.css.map",
+    "main.a31d76ba.js.map": "/Infybytes--Tic-tac-toe/static/js/main.a31d76ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3532ca69.css",
+    "static/js/main.a31d76ba.js"
+  ]
+}
